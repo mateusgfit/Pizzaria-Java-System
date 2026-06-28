@@ -18,3 +18,9 @@ Sistema de gestão de pedidos para pizzarias desenvolvido em Java, com foco em b
 - Git/GitHub
 - File I/O (Manipulação de arquivos)
 - Exception Handling (Tratamento de erros)
+
+- ## Executando o Projeto
+Caso prefira rodar apenas o executável sem abrir a IDE:
+1. Baixe o arquivo `nome_do_seu_projeto.jar` deste repositório.
+2. Abra o terminal na pasta onde o arquivo foi salvo.
+3. Execute o comando: `java -jar nome_do_seu_arquivo.jar`
