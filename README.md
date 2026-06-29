@@ -24,3 +24,6 @@ Caso prefira rodar apenas o executável sem abrir a IDE:
 1. Baixe o arquivo `PizzaShop.jar` deste repositório.
 2. Abra o terminal na pasta onde o arquivo foi salvo.
 3. Execute o comando: `java -jar PizzaShop.jar`
+
+"Nova camada de segurança implementada com Node.js (Helmet, RateLimit, JWT e conexão segura com MySQL)."
+
